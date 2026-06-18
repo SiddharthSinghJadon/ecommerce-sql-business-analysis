@@ -1,3 +1,19 @@
+/*
+Dataset: Olist Brazilian E-Commerce Dataset
+
+Tables Used:
+- customers
+- orders
+- payments
+- reviews
+- products
+- sellers
+- order_items
+
+Total Orders: ~100k
+Objective:
+Perform end-to-end business analytics using SQL.
+*/
 -------------------------- DATABASE SELECTION---------------------------
 
 USE ecommerce_analysis
