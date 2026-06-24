@@ -50,24 +50,8 @@ The analysis was performed on a relational database consisting of:
 * Reviews
 
 Schema Diagram:
+<img width="1466" height="1031" alt="Project Schema" src="https://github.com/user-attachments/assets/43e9651a-3384-46b0-b0b1-1e073bbc24b1" />
 
-```text
-customers
-    |
-orders
-    |
-order_items
-   / \
-products sellers
-
-orders
-   |
-payments
-
-orders
-   |
-reviews
-```
 
 
 ---
