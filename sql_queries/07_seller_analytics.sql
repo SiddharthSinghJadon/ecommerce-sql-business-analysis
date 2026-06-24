@@ -99,7 +99,7 @@ ORDER BY no_of_sellers DESC;
 --Product variety per seller--
 SELECT
     seller_id,
-    COUNT(product_id) AS no_of_products
+    COUNT(DISTINCT(product_id)) AS no_of_products
 FROM V_sellers_analysis
 GROUP BY seller_id
 ORDER BY no_of_products DESC;
