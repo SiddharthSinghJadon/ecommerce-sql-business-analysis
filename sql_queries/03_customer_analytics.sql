@@ -34,7 +34,7 @@ ORDER BY total_revenue DESC;
 --Revenue by State--
 SELECT
     customer_state,
-    SUM(payment_value) AS total_revenue
+    ROUND(SUM(payment_value), 2) AS total_revenue
 FROM V_customer_analytics
 GROUP BY customer_state
 ORDER BY total_revenue DESC;
