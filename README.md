@@ -69,7 +69,6 @@ orders
 reviews
 ```
 
-*(Replace with schema.png after uploading the diagram.)*
 
 ---
 
