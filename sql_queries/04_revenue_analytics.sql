@@ -3,10 +3,10 @@
 
 -- Basic KPI About Revenue Generation --
 SELECT
-    SUM(payment_value) AS total_revenue,
-    AVG(payment_value) AS avg_order_value,
-    MAX(payment_value) AS highest_order,
-    MIN(payment_value) AS lowest_order
+    ROUND(SUM(payment_value), 2) AS total_revenue,
+    ROUND(AVG(payment_value), 2) AS avg_order_value,
+    ROUND(MAX(payment_value), 2) AS highest_order,
+    ROUND(MIN(payment_value), 2) AS lowest_order
 FROM payments;
 
 --Making VIEW for future use & using LEFT JOIN to Merge Data for Revenue Analysis --
