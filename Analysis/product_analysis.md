@@ -14,15 +14,15 @@ Average, Maximum and Minimum Product Price
 
 ### Result
 
-Average Product Price: **[FILL]**
+Average Product Price: **120.65**
 
-Maximum Product Price: **[FILL]**
+Maximum Product Price: **6735**
 
-Minimum Product Price: **[FILL]**
+Minimum Product Price: **0.85**
 
 ### Interpretation
 
-Products are priced between **[FILL]** and **[FILL]**, with an average selling price of **[FILL]**.
+Products are priced between **0.85** and **6735**, with an average selling price of **120.65**.
 
 ### Why It Matters
 
@@ -40,13 +40,13 @@ Most Selling Product Categories
 
 | Rank | Category | Orders |
 | ---- | -------- | ------ |
-| 1    | [FILL]   | [FILL] |
-| 2    | [FILL]   | [FILL] |
-| 3    | [FILL]   | [FILL] |
+| 1    | cama_mesa_banho   | 11115 |
+| 2    | beleza_saude   | 9670 |
+| 3    | esporte_lazer   | 8641 |
 
 ### Interpretation
 
-The category with the highest order volume was **[FILL]**.
+The category with the highest order volume was **cama_mesa_banho**.
 
 ### Why It Matters
 
@@ -64,13 +64,13 @@ Most Selling Products
 
 | Rank | Product ID | Orders |
 | ---- | ---------- | ------ |
-| 1    | [FILL]     | [FILL] |
-| 2    | [FILL]     | [FILL] |
-| 3    | [FILL]     | [FILL] |
+| 1    | aca2eb7d00ea1a7b8ebd4e68314663af     | 527 |
+| 2    | 99a4788cb24856965c36a24e339b6058     | 488 |
+| 3    | 422879e10f46682990de24d770e7f83d     | 484 |
 
 ### Interpretation
 
-The highest-selling product received **[FILL]** orders.
+The highest-selling product received **527** orders.
 
 ### Why It Matters
 
@@ -86,11 +86,11 @@ Frequency Distribution of Number of Products
 
 ### Result
 
-Products Ordered Once: **[FILL]**
+Products Ordered Once: **18117**
 
-Products Ordered Twice: **[FILL]**
+Products Ordered Twice: **5817**
 
-Products Ordered Three Times: **[FILL]**
+Products Ordered Three Times: **2651**
 
 ### Interpretation
 
@@ -112,13 +112,13 @@ Product Categories Generating Most Revenue
 
 | Rank | Category | Revenue |
 | ---- | -------- | ------- |
-| 1    | [FILL]   | [FILL]  |
-| 2    | [FILL]   | [FILL]  |
-| 3    | [FILL]   | [FILL]  |
+| 1    | beleza_saude   | 1258681.34  |
+| 2    | relogios_presentes   | 1205005.68  |
+| 3    | cama_mesa_banho   | 1036988.68  |
 
 ### Interpretation
 
-The highest revenue-generating category was **[FILL]**.
+The highest revenue-generating category was **beleza_saude**.
 
 ### Why It Matters
 
@@ -136,9 +136,9 @@ Product Categories Generating Least Revenue
 
 | Rank | Category | Revenue |
 | ---- | -------- | ------- |
-| 1    | [FILL]   | [FILL]  |
-| 2    | [FILL]   | [FILL]  |
-| 3    | [FILL]   | [FILL]  |
+| 1    | seguros_e_servicos   | 283.29  |
+| 2    | fashion_roupa_infanto_juvenil   | 569.85  |
+| 3    | cds_dvds_musicais   | 730  |
 
 ### Interpretation
 
@@ -160,13 +160,13 @@ Highest Average Product Price by Category
 
 | Rank | Category | Avg Price |
 | ---- | -------- | --------- |
-| 1    | [FILL]   | [FILL]    |
-| 2    | [FILL]   | [FILL]    |
-| 3    | [FILL]   | [FILL]    |
+| 1    | pcs   | 1098.34    |
+| 2    | portateis_casa_forno_e_cafe  | 624.29    |
+| 3    | eletrodomesticos_2  | 476.12    |
 
 ### Interpretation
 
-The most premium category was **[FILL]**.
+The most premium category was **pcs**.
 
 ### Why It Matters
 
@@ -182,15 +182,15 @@ Lowest Average Product Price by Category
 
 ### Result
 
-| Rank | Category | Avg Price |
-| ---- | -------- | --------- |
-| 1    | [FILL]   | [FILL]    |
-| 2    | [FILL]   | [FILL]    |
-| 3    | [FILL]   | [FILL]    |
+| Rank | Category | Avg  Price |
+| ---- | -------- | ---------------- |
+| 1    | casa_conforto_2   | 25.34           |
+| 2    | flores   | 33.64           |
+| 3    | fraldas_higiene   | 40.19          |
 
 ### Interpretation
 
-The lowest-priced category averaged **[FILL]** per item.
+The lowest-priced category averaged **casa_conforto_2** per item.
 
 ### Why It Matters
 
@@ -207,14 +207,14 @@ Highest Average Freight Cost Category
 ### Result
 
 | Rank | Category | Avg Freight Cost |
-| ---- | -------- | ---------------- |
-| 1    | [FILL]   | [FILL]           |
-| 2    | [FILL]   | [FILL]           |
-| 3    | [FILL]   | [FILL]           |
+| ---- | -------- | --------- |
+| 1    | pcs   | 48.45    |
+| 2    | eletrodomesticos_2   | 44.54    |
+| 3    | moveis_colchao_e_estofado   | 42.91   |
 
 ### Interpretation
 
-The most expensive category to ship was **[FILL]**.
+The most expensive category to ship was **pcs**.
 
 ### Why It Matters
 
@@ -232,13 +232,13 @@ Lowest Average Freight Cost Category
 
 | Rank | Category | Avg Freight Cost |
 | ---- | -------- | ---------------- |
-| 1    | [FILL]   | [FILL]           |
-| 2    | [FILL]   | [FILL]           |
-| 3    | [FILL]   | [FILL]           |
+| 1    | fashion_roupa_infanto_juvenil   | 11.94           |
+| 2    | livros_importados   | 12.83           |
+| 3    | fashion_roupa_feminina   | 12.95           |
 
 ### Interpretation
 
-The least expensive category to ship was **[FILL]**.
+The least expensive category to ship was **fashion_roupa_infanto_juvenil**.
 
 ### Why It Matters
 
@@ -256,9 +256,9 @@ Percentage Freight Cost Compared to Product Price
 
 | Rank | Category | Avg Freight % of Product Price |
 | ---- | -------- | ------------------------------ |
-| 1    | [FILL]   | [FILL]%                        |
-| 2    | [FILL]   | [FILL]%                        |
-| 3    | [FILL]   | [FILL]%                        |
+| 1    | casa_conforto_2   | 93.386%                        |
+| 2    | dvds_blu_ray   | 83.304%                        |
+| 3    | eletronicos  | 68.351%                        |
 
 ### Interpretation
 
@@ -300,11 +300,7 @@ Understanding this relationship helps optimize packaging, shipping strategies, a
 
 Based on sales distribution:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Should inventory and marketing resources focus more heavily on top-performing products and categories?
+**Continue prioritizing high-performing products during peak demand periods while maintaining a balanced and diversified product catalog.**
 
 ---
 
@@ -312,11 +308,7 @@ Should inventory and marketing resources focus more heavily on top-performing pr
 
 Based on category revenue performance:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Can high-revenue categories be expanded through additional product offerings?
+**Expand product offerings within top-performing categories to capture additional customer demand.**
 
 ---
 
@@ -324,11 +316,7 @@ Can high-revenue categories be expanded through additional product offerings?
 
 Based on average product prices:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Should premium categories receive differentiated positioning and promotions?
+**Premium product categories should receive differentiated positioning and targeted promotions to maximize revenue potential.**
 
 ---
 
@@ -336,11 +324,7 @@ Should premium categories receive differentiated positioning and promotions?
 
 Based on freight cost analysis:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Can shipping costs be reduced through packaging optimization, regional warehousing, or pricing adjustments?
+*Freight costs should be continuously monitored, particularly for categories with high shipping expenses, to protect profitability.**
 
 ---
 
@@ -348,8 +332,4 @@ Can shipping costs be reduced through packaging optimization, regional warehousi
 
 Based on weight versus freight analysis:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Should heavier products have separate shipping policies or minimum order thresholds to protect margins?
+**Heavier products may require specialized shipping strategies or pricing policies to ensure transportation costs do not significantly erode margins.**
