@@ -14,11 +14,11 @@ Average Review Score
 
 ### Result
 
-Average Review Score: **[FILL]**
+Average Review Score: **4.02**
 
 ### Interpretation
 
-Customers rated their purchases an average of **[FILL]** out of 5.
+Customers rated their purchases an average of **4.02** out of 5.
 
 ### Why It Matters
 
@@ -36,15 +36,15 @@ Distribution of Rating vs Number of Orders
 
 | Rating | Customer Satisfaction | Orders |
 | ------ | --------------------- | ------ |
-| 1      | Negative              | [FILL] |
-| 2      | Negative              | [FILL] |
-| 3      | Neutral               | [FILL] |
-| 4      | Positive              | [FILL] |
-| 5      | Positive              | [FILL] |
+| 1      | Negative              | 11393 |
+| 2      | Negative              | 3148 |
+| 3      | Neutral               | 8160 |
+| 4      | Positive              | 19098 |
+| 5      | Positive              | 57076 |
 
 ### Interpretation
 
-Positive reviews represented **[FILL]%** of all reviewed orders, while negative reviews represented **[FILL]%**.
+Positive reviews represented **67%** of all reviewed orders, while negative reviews represented **12.8%**.
 
 ### Why It Matters
 
@@ -66,13 +66,13 @@ Category Wise Rating Distribution
 
 | Rank | Product Category | Avg Rating |
 | ---- | ---------------- | ---------- |
-| 1    | [FILL]           | [FILL]     |
-| 2    | [FILL]           | [FILL]     |
-| 3    | [FILL]           | [FILL]     |
+| 1    | cds_dvds_musicais          | 4.64     |
+| 2    | fashion_roupa_infanto_juvenil           | 4.5     |
+| 3    | livros_interesse_geral           | 4.45     |
 
 ### Interpretation
 
-The highest-rated category was **[FILL]**, with an average review score of **[FILL]**.
+The highest-rated category was **cds_dvds_musicais**, with an average review score of **4.64**.
 
 ### Why It Matters
 
@@ -90,13 +90,13 @@ Category Wise Rating Distribution
 
 | Rank | Product Category | Avg Rating |
 | ---- | ---------------- | ---------- |
-| 1    | [FILL]           | [FILL]     |
-| 2    | [FILL]           | [FILL]     |
-| 3    | [FILL]           | [FILL]     |
+| 1    | seguros_e_servicos           | 2.5     |
+| 2    | other_items           | 3.16     |
+| 3    | fraldas_higiene           | 3.26     |
 
 ### Interpretation
 
-The lowest-rated category was **[FILL]**.
+The lowest-rated category was **seguros_e_servicos**.
 
 ### Why It Matters
 
@@ -112,15 +112,11 @@ Seller Wise Rating Distribution
 
 ### Result
 
-| Rank | Seller ID | Avg Rating |
-| ---- | --------- | ---------- |
-| 1    | [FILL]    | [FILL]     |
-| 2    | [FILL]    | [FILL]     |
-| 3    | [FILL]    | [FILL]     |
+507 Sellers recieved 5/5 as customer rating.
 
 ### Interpretation
 
-The highest-rated seller achieved an average customer rating of **[FILL]**.
+The highest-rated sellerS achieved an average customer rating of **5**.
 
 ### Why It Matters
 
@@ -136,15 +132,11 @@ Seller Wise Rating Distribution
 
 ### Result
 
-| Rank | Seller ID | Avg Rating |
-| ---- | --------- | ---------- |
-| 1    | [FILL]    | [FILL]     |
-| 2    | [FILL]    | [FILL]     |
-| 3    | [FILL]    | [FILL]     |
+151 Sellers recieved average customer rating of **1**.
 
 ### Interpretation
 
-The lowest-rated seller averaged **[FILL]** customer rating.
+The lowest-rated seller averaged **1** customer rating.
 
 ### Why It Matters
 
@@ -162,21 +154,17 @@ Delivery Time vs Reviews
 
 | Delivery Speed     | Avg Review Score | Orders |
 | ------------------ | ---------------- | ------ |
-| Fast (<=7 Days)    | [FILL]           | [FILL] |
-| Medium (8-14 Days) | [FILL]           | [FILL] |
-| Slow (>14 Days)    | [FILL]           | [FILL] |
+| Fast (<=7 Days)    | 4.33           | 35273 |
+| Medium (8-14 Days) | 4.21           | 43471 |
+| Slow (>14 Days)    | 3.45           | 34387 |
 
 ### Interpretation
 
-Orders delivered within **[FILL]** days received the highest average review scores, while slower deliveries received lower ratings.
+Orders delivered within **7** days received the highest average review scores, while slower deliveries received lower ratings.
 
 ### Why It Matters
 
 This analysis directly links operational performance to customer satisfaction.
-
-### Thinking Prompt
-
-How much customer satisfaction is lost when deliveries move from the Fast category to the Slow category?
 
 ---
 
@@ -188,15 +176,11 @@ Delivery Time vs Reviews
 
 ### Result
 
-Difference Between Highest and Lowest Average Rating: **[FILL]**
+Difference Between Highest and Lowest Average Rating nears almost 1 point out of 5
 
 ### Interpretation
 
-Customer satisfaction changes by approximately **[FILL]** rating points between the fastest and slowest delivery groups.
-
-### Why It Matters
-
-This quantifies the business impact of logistics performance on customer experience.
+Customer satisfaction changes by approximately **1** rating points between the fastest and slowest delivery groups.
 
 ---
 
@@ -206,11 +190,7 @@ This quantifies the business impact of logistics performance on customer experie
 
 Based on overall review performance:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-What actions could increase the average review score across the marketplace?
+**Analyze the most common causes of negative reviews and prioritize improvements in areas with the greatest impact on customer experience.**
 
 ---
 
@@ -218,11 +198,7 @@ What actions could increase the average review score across the marketplace?
 
 Based on category ratings:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Should low-rated product categories undergo quality audits or supplier reviews?
+**Low-rated product categories should undergo periodic quality reviews to identify recurring issues and improve customer satisfaction.**
 
 ---
 
@@ -230,11 +206,7 @@ Should low-rated product categories undergo quality audits or supplier reviews?
 
 Based on seller ratings:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Should seller performance thresholds be established to maintain customer satisfaction standards?
+**Seller ratings should be continuously monitored, with corrective actions implemented for consistently underperforming sellers.**
 
 ---
 
@@ -242,11 +214,7 @@ Should seller performance thresholds be established to maintain customer satisfa
 
 Based on delivery speed versus review scores:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-Would improving delivery speed have a measurable impact on customer satisfaction?
+**Since faster deliveries are associated with better review scores, logistics improvements should remain a key operational priority.**
 
 ---
 
@@ -254,8 +222,4 @@ Would improving delivery speed have a measurable impact on customer satisfaction
 
 Based on review patterns:
 
-**Your Observation:**
-[FILL]
-
-**Potential Recommendation:**
-How can highly-rated categories and sellers be leveraged to strengthen overall marketplace performance?
+**Promote highly rated products and sellers more prominently to reinforce customer trust and improve overall marketplace performance.**
