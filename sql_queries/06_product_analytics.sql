@@ -128,7 +128,7 @@ ORDER BY avg_freight_cost;
 --% Freight Cost Compared to Product Price--
 SELECT 
     product_category_name,
-    AVG(100 * freight_value / price) AS avg_percentage_freight_cost
+    ROUND(AVG(100 * freight_value / price), 3) AS avg_percentage_freight_cost
 FROM V_product_analysis
 WHERE product_category_name IS NOT NULL
 GROUP BY product_category_name
