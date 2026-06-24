@@ -54,8 +54,8 @@ WHERE order_delivered_customer_date > order_estimated_delivery_date;
 
 --Amount Of Delay Caused--
 SELECT
-    order_id,
-    DATEDIFF(DAY, order_delivered_customer_date, order_estimated_delivery_date) AS delay_occured
+    ROUND(AVG(CAST(DATEDIFF(DAY, order_delivered_customer_date, order_estimated_delivery_date) AS FLOAT)), 2) AS avg_delay_occured,
+    MAX(DATEDIFF(DAY, order_delivered_customer_date, order_estimated_delivery_date)) AS max_delay_cased
 FROM V_delivery_analytics
 
 --Percentage Late Orders--
