@@ -280,9 +280,9 @@ Freight Cost Compared to Weight Categories
 
 | Weight Category | Avg Freight Cost |
 | --------------- | ---------------- |
-| Light           | [FILL]           |
-| Medium          | [FILL]           |
-| Heavy           | [FILL]           |
+| Light           | 15.81           |
+| Medium          | 22.55           |
+| Heavy           | 54.62           |
 
 ### Interpretation
 
@@ -324,7 +324,7 @@ Based on average product prices:
 
 Based on freight cost analysis:
 
-*Freight costs should be continuously monitored, particularly for categories with high shipping expenses, to protect profitability.**
+**Freight costs should be continuously monitored, particularly for categories with high shipping expenses, to protect profitability.**
 
 ---
 
