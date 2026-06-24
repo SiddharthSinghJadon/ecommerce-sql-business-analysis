@@ -132,14 +132,14 @@ Product Variety Per Seller
 
 | Rank | Seller ID | Products |
 | ---- | --------- | -------- |
-| 1    | 6560211a19b47992c3666cc44a7e94c0    | 2033 |
-| 2    | 4a3ca9315b744ce9f8e9374361493884    | 1987 |
-| 3    | 1f50f920176fa81dab994f9023523100    | 1931 |
+| 1    | 4a3ca9315b744ce9f8e9374361493884    | 399 |
+| 2    | cca3071e3e9bb7d12640c9fbe2301306    | 322 |
+| 3    | d91fb3b7d041e83b64a00a3edfb37e4f    | 315 |
 
 
 ### Interpretation
 
-The most diversified seller offers **27** products.
+The most diversified seller offers **399** products.
 
 ### Why It Matters
 
@@ -163,7 +163,7 @@ Multi-Category Seller Analysis
 
 ### Interpretation
 
-The most diversified seller operates across **[FILL]** product categories.
+The most diversified seller operates across **27** product categories.
 
 ### Why It Matters
 
@@ -179,9 +179,9 @@ Seller Handoff Time Analysis
 
 ### Result
 
-Average Seller Handoff Time: **[FILL]** days
+Average Seller Handoff Time: **2.8** days
 
-Slowest Seller Handoff Time: **[FILL]** days
+Slowest Seller Handoff Time: **61** days
 
 ### Interpretation
 
