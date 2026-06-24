@@ -119,6 +119,7 @@ Preferred Payment Method
 ### Result
 
 | **Payment Method** | **Total Transactions** | **Total Revenue** |
+| ----- | --------- | ----- |
 | credit_card	| 76795	| 12542084.19 |
 | boleto | 19784 | 2869361.27 |
 
