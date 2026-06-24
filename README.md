@@ -277,14 +277,14 @@ Brazilian-Ecommerce-SQL-Analysis/
 ├── schema.png
 │
 ├── sql_queries/
+│   ├── 00_QUERIES_README.md
 │   ├── 01_database_setup.sql
 │   ├── 02_customer_analysis.sql
 │   ├── 03_revenue_analysis.sql
 │   ├── 04_delivery_analysis.sql
 │   ├── 05_product_analysis.sql
 │   ├── 06_seller_analysis.sql
-│   ├── 07_review_analysis.sql
-│   └── 00_QUERIES_README.md
+│   └── 07_review_analysis.sql
 │
 └── analysis/
     ├── customer_analysis.md
