@@ -14,15 +14,11 @@ Average, Minimum and Maximum Delivery Time
 
 ### Result
 
-Average Delivery Time: **[FILL]** days
+Average Delivery Time: **12.5** days
 
-Minimum Delivery Time: **[FILL]** days
+Minimum Delivery Time: **0** days
 
-Maximum Delivery Time: **[FILL]** days
-
-### Interpretation
-
-Orders took an average of **[FILL]** days to reach customers, with delivery times ranging from **[FILL]** to **[FILL]** days.
+Maximum Delivery Time: **210** days
 
 ### Why It Matters
 
@@ -40,13 +36,13 @@ Fastest Delivery States
 
 | Rank | State  | Avg Delivery Days |
 | ---- | ------ | ----------------- |
-| 1    | [FILL] | [FILL]            |
-| 2    | [FILL] | [FILL]            |
-| 3    | [FILL] | [FILL]            |
+| 1    | SP     | 8.70              |
+| 2    | PR     | 11.94             |
+| 3    | MG     | 11.95             |
 
 ### Interpretation
 
-The fastest deliveries were observed in **[FILL]**, averaging **[FILL]** days.
+The fastest deliveries were observed in **SP**, averaging **8.7** days.
 
 ### Why It Matters
 
@@ -64,13 +60,13 @@ Slowest Delivery States
 
 | Rank | State  | Avg Delivery Days |
 | ---- | ------ | ----------------- |
-| 1    | [FILL] | [FILL]            |
-| 2    | [FILL] | [FILL]            |
-| 3    | [FILL] | [FILL]            |
+| 1    | RR | 29.34            |
+| 2    | AP | 27.18            |
+| 3    | AM | 26.36            |
 
 ### Interpretation
 
-The slowest deliveries occurred in **[FILL]**, averaging **[FILL]** days.
+The slowest deliveries occurred in **RR**, averaging **29.34** days.
 
 ### Why It Matters
 
@@ -90,7 +86,7 @@ Total Late Orders: **[FILL]**
 
 ### Interpretation
 
-A total of **[FILL]** orders were delivered after their estimated delivery date.
+A total of **7827** orders were delivered after their estimated delivery date.
 
 ### Why It Matters
 
@@ -106,11 +102,11 @@ Late Delivery Percentage
 
 ### Result
 
-Late Delivery Percentage: **[FILL]%**
+Late Delivery Percentage: **8.11%**
 
 ### Interpretation
 
-Approximately **[FILL]%** of all delivered orders arrived later than promised.
+Approximately **8.11%** of all delivered orders arrived later than promised.
 
 ### Why It Matters
 
@@ -126,9 +122,9 @@ Amount of Delay Caused
 
 ### Result
 
-Maximum Delay Observed: **[FILL]** days
+Maximum Delay Observed: **147** days
 
-Average Delay Among Late Orders: **[FILL]** days
+Average Delay Among Late Orders: **11.88** days
 
 ### Interpretation
 
